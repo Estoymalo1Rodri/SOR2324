@@ -1,2 +1,4 @@
-# SOR2324
-Repositorio con las ideas principales ideas y comandos del curso de Sistemas operativos en red 2324.
+Hola en este curso estamos dando en SOR lo siguiente:
+
+- Hemos empezado haciendo comandos y aprendiendo sobre los servidores, su funcionamiento, etc...
+- Después hemos arreglado la clase junto con nuestro profesor y ya por último hemos dado un poco de teoría y funcionamiento mas especifico sobre los servidores.
